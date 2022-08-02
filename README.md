@@ -10,6 +10,11 @@ Style of gameplay:
   Snipers:???
   Balance cores???
 
+Difficulties:
+  Space junks: easy start, just collect junk that do what ever the f you want
+  Pirate: Hard start
+  Every thing else mid start
+
 Game modes:
   SSF coz i don't want to make it to online player base
   Hardcore 1 life no respawns
